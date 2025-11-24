@@ -1,0 +1,20 @@
+/* style.css */
+* {
+    -fx-font-family: "Arial", sans-serif;
+    -fx-font-size: 14px;
+}
+
+Button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+TextField, ComboBox {
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+}
+
+Label {
+    -fx-font-weight: bold;
+}
